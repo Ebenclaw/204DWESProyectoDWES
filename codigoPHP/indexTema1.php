@@ -15,9 +15,9 @@
         <h1>DWES: Tema 1 - Desarrollo web en entorno servidor</h1>
     </header>
     <main>
-        <ul>
-            <li><a href="../doc/EstudioTema1.pdf" target="_blank">Estudio teorico</a></li>
-            <li><a href="">Estudio de Laravel</a></li>            
+        <ul class="lista">
+            <li><a href="../doc/EstudioTema1.pdf" target="_blank">Estudio teorico de desarrollo de aplicaciones web</a></li>
+            <li><a href="">Estudio de arquitectura: LARAVEL</a></li>       
         </ul>
     </main>
     <footer>

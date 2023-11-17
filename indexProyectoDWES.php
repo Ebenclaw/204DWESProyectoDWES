@@ -15,9 +15,19 @@
         <h1>Desarrollo Web en entorno Servidor - DWES</h1>
     </header>
     <main>
-        <ul>
-            <li><a href="codigoPHP/indexTema1.php">Tema 1 - DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
-            <li><a href="codigoPHP/indexTema2.php">Tema 2 - INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</a></li>
+        <ul class="lista">
+            <li><a href="codigoPHP/indexTema1.php">Tema 1 - DESARROLLO WEB EN ENTORNO SERVIDOR</a>
+                <ul class="sublista">
+                    <li>Estudio teorico de desarrollo de aplicaciones web</li>
+                    <li>Estudio de arquitectura: LARAVEL</li>
+                </ul>
+            </li>
+            <li><a href="codigoPHP/indexTema2.php">Tema 2 - INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</a>
+                <ul class="sublista">
+                    <li>Documentacion del entorno de desarrollo y del entorno de explotacion AMP</li>
+                    <li>Estudio de funciones y clases de PHP</li>
+                </ul>
+            </li>
             <li><a href="../204DWESProyectoTema3/indexProyectoTema3.php">Tema 3 - CARACTERÍSTICAS DEL LENGUAJE PHP </a></li>
             <li><a href="../204DWESProyectoTema4/indexProyectoTema4.php">Tema 4 - TÉCNICAS DE ACCESO A DATOS EN PHP</a></li>
             <li><a href="">Tema 5 - DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO</a></li>

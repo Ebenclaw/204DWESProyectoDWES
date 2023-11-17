@@ -15,10 +15,9 @@
         <h1>DWES: Tema 2 - Instalacion, configuracion y documentacion del ED y EX</h1>
     </header>
     <main>
-        <ul>
-            <li><a href="../doc/EstudioTema2.pdf" target="_blank">Documentacion del entorno de desarrollo y del entorno de explotacion</a></li>
-            <li><a href="">Estudio de funciones PHP</a></li>   
-            <li><a href="">Estudio de clases PHP</a></li>
+        <ul class="lista">
+            <li><a href="../doc/EstudioTema2.pdf" target="_blank">Documentacion del entorno de desarrollo y del entorno de explotacion AMP</a></li>
+            <li><a href="">Estudio de funciones y clases de PHP</a></li>   
         </ul>
     </main>
     <footer>
