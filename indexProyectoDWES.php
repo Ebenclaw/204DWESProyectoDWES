@@ -16,16 +16,16 @@
     </header>
     <main>
         <ul class="lista">
-            <li><a href="codigoPHP/indexTema1.php">Tema 1 - DESARROLLO WEB EN ENTORNO SERVIDOR</a>
+            <li>Tema 1 - DESARROLLO WEB EN ENTORNO SERVIDOR
                 <ul class="sublista">
-                    <li>Estudio teorico de desarrollo de aplicaciones web</li>
-                    <li>Estudio de arquitectura: LARAVEL</li>
+                    <li><a href="doc/EstudioTema1.pdf" target="_blank">Estudio teorico de desarrollo de aplicaciones web</a></li>
+                    <li><a href="doc/EstudioLaravel.pdf" target="_blank">Estudio de arquitectura: LARAVEL</a></li>
                 </ul>
             </li>
-            <li><a href="codigoPHP/indexTema2.php">Tema 2 - INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</a>
+            <li>Tema 2 - INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN
                 <ul class="sublista">
-                    <li>Documentacion del entorno de desarrollo y del entorno de explotacion AMP</li>
-                    <li>Estudio de funciones y clases de PHP</li>
+                    <li><a href="doc/EstudioTema2.pdf" target="_blank">Documentacion del entorno de desarrollo y del entorno de explotacion AMP</a></li>
+                    <li><a href="doc/EstudioFuncionesyClases.pdf" target="_blank">Estudio de funciones y clases de PHP</a></li>
                 </ul>
             </li>
             <li><a href="../204DWESProyectoTema3/indexProyectoTema3.php">Tema 3 - CARACTERÍSTICAS DEL LENGUAJE PHP </a></li>
@@ -39,7 +39,7 @@
     <footer>
         <div id="derechos">2023-2024 © Todos los derechos reservados: <a href="../index.html">Rebeca Sánchez Pérez</a></div>
         <div id="fotos">
-            <a href="https://github.com/Ebenclaw" target="_blank"><img id="git" src="webroot/image/GitHub.png" alt="GitHub"></a>
+            <a href="https://github.com/Ebenclaw/204DWESProyectoDWES" target="_blank"><img id="git" src="webroot/image/GitHub.png" alt="GitHub"></a>
             <a href="http://ieslossauces.centros.educa.jcyl.es/sitio/" target="_blank"><img id="sauces" src="webroot/image/sauces.png" alt="Sauces"></a>
             <a href="../index.html"><img id="home" src="webroot/image/home.png" alt="Inicio"></a>
         </div>

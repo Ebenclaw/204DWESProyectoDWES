@@ -28,6 +28,22 @@ header{
     background-color: #fff7e5;
     display: inline-block;
 }
+.error{
+    color: red;
+}
+.imgError{
+    display: block;
+    width: 600px;
+    margin: auto;
+    margin-top: 200px;
+}
+.divError{
+    width: 100%;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #F73C90;
+    text-align: center;
+}
 #logo{
     float: left;
     margin-left: 10px;
@@ -54,6 +70,7 @@ h1{
     font-size: 1rem;
     padding: 20px;
     margin-top: 20px;
+    color: #59483e;
     box-shadow: 10px 10px 5px #8b796f;
     transition: all 0.25s ease;
 }
