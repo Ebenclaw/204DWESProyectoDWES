@@ -25,7 +25,7 @@
             <li>Tema 2 - INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN
                 <ul class="sublista">
                     <li><a href="doc/EstudioTema2.pdf" target="_blank">Documentacion del entorno de desarrollo y del entorno de explotacion AMP</a></li>
-                    <li><a href="doc/EstudioFuncionesyClases.pdf" target="_blank">Estudio de funciones y clases de PHP</a></li>
+                    <li><a href="doc/EstudioClasesYFuncionesPHP.pdf" target="_blank">Estudio de funciones y clases de PHP: PDOSTATEMENT</a></li>
                 </ul>
             </li>
             <li><a href="../204DWESProyectoTema3/indexProyectoTema3.php">Tema 3 - CARACTERÍSTICAS DEL LENGUAJE PHP </a></li>
