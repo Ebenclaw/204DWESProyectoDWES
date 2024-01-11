@@ -33,10 +33,15 @@
             <li>Tema 5 - DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO
                 <ul class="sublista">
                     <li><a href="../204DWESProyectoTema5/indexProyectoTema5.php">Listado de ejercicios practicos</a></li>
-                    <li><a href="../204DWESLoginLogoffTema5/indexLoginLogoffTema5ES.php">Aplicacion LoginLoffTema5</a></li>
+                    <li><a href="../204DWESLoginLogoffTema5/indexLoginLogoffTema5ES.php">Aplicacion LoginLogoffTema5</a></li>
                 </ul>
             </li>
-            <li><a href="">Tema 6 - PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</a></li>
+            <li>Tema 6 - PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP
+                <ul class="sublista">
+                    <li><a href="../204DWESLoginLogoff/index.php">Aplicacion LoginLogoff</a></li>
+                </ul>
+            </li>
+            
             <li><a href="">Tema 7 - PROGRAMACIÓN DE SERVICIOS WEB</a></li>
             <li><a href="">Tema 8 - DESARROLLO DE APLICACIONES WEB HÍBRIDAS</a></li>
         </ul>
